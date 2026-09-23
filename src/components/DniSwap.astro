@@ -48,9 +48,12 @@ import { brand } from "~/lib/brand";
         var q = new URLSearchParams(location.search);
         if (q.get("gclid") || q.get("gbraid") || q.get("wbraid")) return "google_ads";
         if (q.get("msclkid")) return "bing";
-        if (q.get("fbclid")) return "facebook";
         var us = (q.get("utm_source") || "").toLowerCase();
         var um = (q.get("utm_medium") || "").toLowerCase();
+        var paid = um.indexOf("cpc") !== -1 || um.indexOf("paid") !== -1 || um.indexOf("ppc") !== -1;
+        var meta = us.indexOf("facebook") !== -1 || us === "fb" || us === "meta" || us.indexOf("instagram") !== -1 || us === "ig";
+        if (meta && paid) return "meta_ads";
+        if (q.get("fbclid")) return "facebook";
         if (us) {
           if (us.indexOf("yelp") !== -1) return "yelp";
           if (us.indexOf("chatgpt") !== -1 || us.indexOf("openai") !== -1) return "chatgpt";
@@ -82,6 +85,23 @@ import { brand } from "~/lib/brand";
           saved = { s: fresh, t: Date.now() };
           try { localStorage.setItem(KEY, JSON.stringify(saved)); } catch (e) {}
         }
+        // D17 (2026-09-16): persist click ids AT LANDING. The form used
+        // to read location.search at submit time, so any visitor who
+        // browsed past the landing page submitted without their gclid
+        // and the lead could never be tied back to the ad click. Click
+        // ids ride the same 30-day store, refreshed on every ad landing.
+        try {
+          var q = new URLSearchParams(location.search), ids = {};
+          ["gclid", "msclkid", "fbclid"].forEach(function (k) {
+            if (q.get(k)) ids[k] = q.get(k).slice(0, 120);
+          });
+          if (Object.keys(ids).length) {
+            saved = saved || { t: Date.now() };
+            saved.ids = ids;
+            saved.t = saved.t || Date.now();
+            localStorage.setItem(KEY, JSON.stringify(saved));
+          }
+        } catch (e) {}
         try { window.rankaiSource = (saved && saved.s) || "default"; } catch (e) {}
         return saved && saved.s;
       }
