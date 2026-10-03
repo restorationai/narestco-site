@@ -33,9 +33,14 @@ const areas = (await getCollection("serviceAreas")).sort(
 );
 const cityPreview = areas.slice(0, 5).map((a) => a.data.city).join(", ");
 
-const h1 = is247
-  ? `24/7 Emergency Water Damage Response in ${brand.primaryCity}`
-  : `Emergency Water Damage Response in ${brand.primaryCity}`;
+// ONE OWNER PER TERM (2026-10-03): "emergency water damage {city}" belongs to
+// /services/water-damage-restoration/. This page owns the what-to-do-right-now
+// intent, stays indexable + self-canonical (not an ads page; ads use /lp/),
+// and links the owner page under the answer capsule.
+const h1 = `Water Emergency in ${brand.primaryCity}? What to Do Right Now`;
+const ownerService = (await getCollection("services")).find(
+  (s) => s.data.service_slug === "water-damage-restoration" || s.slug === "water-damage-restoration"
+);
 
 const metaDescription = `Flooded home or burst pipe in ${brand.primaryCity}, ${brand.primaryState}? ${shortLabel} is typically on-site within 60 minutes${is247 ? ", 24/7" : " during business hours"}, with direct insurance billing. Call ${brand.phone}.`;
 
@@ -72,7 +77,7 @@ const faq = [
   schema_stubs={["local-business", "service", "faq", "breadcrumb-list"]}
   schema_ctx={{
     archetype: "emergency-landing",
-    service_display: "Emergency Water Damage Restoration",
+    service_display: "Water Emergency Response",
   }}
   breadcrumb={[{ name: "Home", url: "/" }, { name: "Emergency" }]}
   faq={faq}
@@ -92,6 +97,14 @@ const faq = [
         <a href={`tel:${brand.phoneRaw}`} class="btn-accent text-base">
           <Phone size={18} /> Call {brand.phone} Now
         </a>
+        {ownerService && (
+          <p class="mt-6 mb-0 text-base text-white/80">
+            Need the full service?{" "}
+            <a href={`/services/${ownerService.data.service_slug || "water-damage-restoration"}/`} class="font-bold text-primary-400">
+              Emergency water damage restoration in {brand.primaryCity}
+            </a>
+          </p>
+        )}
       </div>
     </div>
   </section>

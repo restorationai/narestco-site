@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "National Restoration Construction | Restoration Services in Federal Way, WA"
-h1: "24/7 Restoration Services in Federal Way"
-meta_description: "National Restoration Construction provides 24/7 water, fire, mold, and storm damage restoration across Federal Way and surrounding areas. Licensed, insured, IICRC-certified. Call (206) 883-0333."
-primary_keyword: "restoration services federal way"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Federal Way, WA | National Restoration Construction"
+h1: "24/7 Water Damage Restoration in Federal Way, WA"
+meta_description: "National Restoration Construction provides water damage restoration in Federal Way, WA, answering 24/7. IICRC certified. Call (206) 883-0333 now."
+primary_keyword: "water damage restoration federal way"
+secondary_keywords: ["best restoration company in federal way", "restoration company federal way", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "d2105da3ef047f42"
