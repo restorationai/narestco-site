@@ -18,6 +18,7 @@ faq: [{"question": "Can mold grow inside walls where I can't see it?", "answer":
 published_at: "2026-05-13"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 Mold can begin colonizing a wet surface in as little as **24 to 48 hours** after water damage. That's not a worst-case estimate, it's the standard window cited by the EPA and IICRC-certified remediators. By the time you can smell that musty, earthy odor or see the first dark specks on drywall, mold has already been growing for days. The clock starts the moment moisture contacts an organic material: drywall paper, wood framing, carpet backing, insulation. Temperature, humidity, and the type of material determine how fast it spreads from there, but in a Western Washington home, conditions are rarely in your favor.
 

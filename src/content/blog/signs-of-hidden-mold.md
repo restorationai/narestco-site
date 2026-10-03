@@ -18,6 +18,7 @@ faq: [{"question": "Can I test for mold myself before calling a professional?", 
 published_at: "2026-05-13"
 services: ["mold-remediation"]
 rendered: true
+author: "Jose Osuna"
 ---
 Mold doesn't always announce itself with a black stain on the ceiling. More often it grows quietly inside walls, under flooring, above ceiling tiles, and inside HVAC ducts, places you never look until something smells wrong or someone starts coughing. If you've had a slow leak, a plumbing repair, or a flooding event in the last year or two, there's a real chance mold has already colonized somewhere in your home. Here are seven specific signs to look for, what each one means, and the steps to take once you find them.
 

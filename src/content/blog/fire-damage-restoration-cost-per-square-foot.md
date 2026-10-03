@@ -17,6 +17,7 @@ faq: [{"question": "What is the average cost per square foot to restore fire dam
 published_at: "2026-06-22"
 services: ["fire-damage-restoration", "reconstruction"]
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Fire damage restoration costs between $3 and $8 per square foot for minor smoke damage, $15 to $50 per square foot for major structural damage, and $75 or more per square foot when a home is a near-total loss. The spread is wide because fire damage is never uniform, the same 2,000-square-foot house can have three different damage tiers in three different rooms, each priced differently.
 

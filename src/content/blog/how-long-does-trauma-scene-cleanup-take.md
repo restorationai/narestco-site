@@ -17,6 +17,7 @@ faq: [{"question": "How long does trauma scene cleanup take?", "answer": "Most r
 published_at: "2026-07-23"
 services: ["trauma-scene-cleanup", "crime-scene-cleanup"]
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Most residential trauma scene cleanups take between one and three days. A single-room scene with limited contamination can often be completed in four to eight hours. Larger areas, structural material removal, or extensive odor treatment extend the timeline. A professional crew handles all biohazard removal, disinfection, and odor neutralization, families do not need to be present and are never asked to assist.
 

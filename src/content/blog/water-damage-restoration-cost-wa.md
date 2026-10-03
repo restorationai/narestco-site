@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Washington St
 published_at: "2026-07-23"
 services: []
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Water damage restoration in Washington State typically costs $1,500 to $15,000, with most residential losses falling between $3,000 and $8,000. The biggest cost drivers are the water category (clean, gray, or sewage), how much square footage is affected, and how long the water sat before extraction began. Every loss is different, and National Restoration Construction provides a written scope before any work begins.
 

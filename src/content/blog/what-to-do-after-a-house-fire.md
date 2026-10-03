@@ -17,6 +17,7 @@ faq: [{"question": "Can I stay in my house after a fire if only part of it was d
 published_at: "2026-06-11"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 You're standing outside your home, the smoke has cleared, and the fire department is packing up. Everything you know about the next steps feels uncertain. The first 72 hours after a house fire are the most consequential for your insurance claim, your health, and your home's structural future. This guide walks through each phase in order, so you're not guessing.
 

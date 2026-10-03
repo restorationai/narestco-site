@@ -17,6 +17,7 @@ faq: [{"question": "How long does flood damage restoration take in Bellevue?", "
 published_at: "2026-07-06"
 services: []
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** When your Bellevue home floods, the company you call matters more than the name you recognize. Look for IICRC certification, a Washington State contractor license, 24/7 availability, and a written scope of work before any equipment hits your floor. This guide explains what those credentials mean, why Bellevue's housing stock creates specific flood risks, and how to evaluate any restoration company on verifiable facts, not marketing claims.
 

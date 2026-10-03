@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a burst pi
 published_at: "2026-05-17"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 If you just discovered water pouring from a burst pipe or came home to a ceiling caved in after a windstorm, the first question is almost always the same: will insurance pay for this? The short answer is that standard homeowners insurance (HO-3 form) covers sudden, accidental damage to your home's structure and personal property. It does not cover flooding from outside, gradual leaks you should have caught, or most foundation problems. The distinction between "sudden" and "gradual" is where most claims get denied.
 

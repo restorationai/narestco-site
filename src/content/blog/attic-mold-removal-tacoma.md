@@ -17,6 +17,7 @@ faq: [{"question": "What causes attic mold in Tacoma homes?", "answer": "The thr
 published_at: "2026-07-30"
 services: ["mold-remediation", "roof-leak-repair"]
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Attic mold in Tacoma typically starts with a roof leak, blocked soffit vents, or a bathroom exhaust fan venting into the attic instead of outside. Removal costs range from $1,500 to $6,000 depending on how much of the sheathing is affected. Fix the moisture source first, mold will return within weeks if you don't. A certified remediation crew handles containment, HEPA vacuuming, antimicrobial treatment, and post-clearance testing so the work holds.
 

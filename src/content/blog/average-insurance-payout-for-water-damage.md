@@ -17,6 +17,7 @@ faq: [{"question": "What is the average homeowners insurance payout for water da
 published_at: "2026-05-29"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 If your adjuster just walked through your home and you're trying to figure out whether the number they quote is reasonable, here's the short answer: the average homeowners insurance payout for water damage in the U.S. falls between $3,000 and $12,000, with most claims settling in the $4,000 to $7,500 range. But that average hides a wide spread. A finished basement with a burst supply line can run $30,000 or more in legitimate covered losses. A Category 1 appliance leak caught early might settle for under $2,000. The source of water, the speed of response, and how well the damage was documented all move that number significantly.
 

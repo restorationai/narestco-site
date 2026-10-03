@@ -17,6 +17,7 @@ faq: [{"question": "How much does mold remediation cost in Seattle on average?",
 published_at: "2026-06-29"
 services: ["mold-remediation"]
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Mold remediation in Seattle typically costs $1,500 to $6,000 for a contained area like a bathroom or basement wall. Crawl spaces run $2,000–$8,000. Attics with widespread growth can reach $10,000 or more. What drives the price: square footage of affected material, the type of surface (drywall vs. framing vs. concrete), containment complexity, and whether post-remediation air clearance testing is required. Most homeowners insurance excludes mold unless it resulted from a covered water event.
 

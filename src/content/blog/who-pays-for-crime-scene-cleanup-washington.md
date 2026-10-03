@@ -17,6 +17,7 @@ faq: [{"question": "Does the Washington Crime Victims Compensation Program pay f
 published_at: "2026-07-16"
 services: ["crime-scene-cleanup", "trauma-scene-cleanup"]
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** In Washington State, crime scene cleanup is most often paid through homeowners or renters insurance, the Washington Crime Victims Compensation (CVC) Program, or a combination of both. You are rarely left paying the full cost out of pocket. The CVC Program specifically exists to help crime victims and their families cover cleanup expenses when insurance falls short or doesn't apply. A reputable cleanup company can help you navigate both at the same time.
 

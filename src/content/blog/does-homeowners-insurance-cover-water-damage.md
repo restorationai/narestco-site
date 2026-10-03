@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a burst pi
 published_at: "2026-05-17"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 If you're staring at a soaked subfloor or a ceiling that just gave way, the first question is always the same: will insurance pay for this? The short answer is that most standard homeowners policies (HO-3 and HO-5 forms) cover sudden, accidental water damage from internal sources, a burst pipe, a failed water heater, an overflowing washing machine. What they almost universally exclude is gradual damage, maintenance failures, and water that originates outside the home. The distinction matters enormously, and adjusters are trained to look for it.
 

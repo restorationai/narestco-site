@@ -18,6 +18,7 @@ faq: [{"question": "Can smoke odor come back after it seems like it's gone?", "a
 published_at: "2026-05-13"
 services: ["smoke-damage-restoration", "fire-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 Smoke odor doesn't just sit on surfaces, it penetrates them. The soot particles and volatile organic compounds (VOCs) released during a fire work their way into drywall, insulation, wood framing, HVAC ductwork, and fabric at a microscopic level. That's why the smell comes back two weeks after you've scrubbed every visible surface: you cleaned what you could see, not what the fire actually left behind. Professional smoke odor removal works because it targets the chemistry of combustion byproducts, not just the visible residue. DIY methods almost always address the symptom, not the source.
 

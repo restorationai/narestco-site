@@ -18,6 +18,7 @@ faq: [{"question": "How long does water damage have to sit before mold starts gr
 published_at: "2026-05-13"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 If water is actively entering your home right now, start here: shut off the main water supply valve, cut power to any flooded rooms at the breaker panel, and get everyone, including pets, out of standing water. The decisions you make in the next few hours will determine whether you're dealing with a manageable cleanup or a months-long reconstruction project. Mold can begin colonizing wet building materials in as little as 24 to 48 hours, and structural damage compounds quickly once water finds its way into subfloors, wall cavities, and insulation.
 

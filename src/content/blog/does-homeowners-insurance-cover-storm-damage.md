@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover storm damage in Washington S
 published_at: "2026-08-27"
 services: ["storm-damage-restoration", "roof-leak-repair"]
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Yes, standard homeowners insurance covers most sudden storm damage: wind, hail, falling trees, and rain that enters through a storm-created opening. What it does NOT cover is flooding from storm surge or rising water (that needs a separate flood policy), damage from gradual leaks, or problems tied to deferred maintenance. In Washington, the distinction between wind-driven rain and ground-level flooding matters a lot, because Pacific Northwest storms deliver both at once.
 

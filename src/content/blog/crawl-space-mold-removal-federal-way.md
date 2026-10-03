@@ -17,6 +17,7 @@ faq: [{"question": "How do I know if the mold in my crawl space is dangerous?", 
 published_at: "2026-07-02"
 services: ["mold-remediation"]
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Crawl space mold is extremely common in Federal Way and the broader South King County area because vented crawl spaces pull in humid Puget Sound air year-round. Professional removal involves HEPA vacuuming, antimicrobial treatment, and encapsulation with a reinforced vapor barrier. Costs typically run $1,500 to $6,000 depending on square footage and severity. Left untreated, crawl space mold spreads to floor joists, subfloor, and eventually into living spaces through the stack effect.
 

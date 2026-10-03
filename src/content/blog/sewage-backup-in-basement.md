@@ -17,6 +17,7 @@ faq: [{"question": "What should I do immediately after a sewage backup in my bas
 published_at: "2026-09-29"
 services: ["sewage-cleanup", "basement-flooding-cleanup"]
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Sewage backing up into a basement is Category 3 black water, the most contaminated water category under the IICRC S500 standard. Shut off water use in the house, keep everyone (especially kids and pets) out of the area, and don't touch or wade into the water. Raw sewage carries bacteria, viruses, and parasites that can cause serious illness within hours of exposure. Professional extraction, disposal of contaminated materials, and antimicrobial treatment typically take 2-4 days, with full drying and reconstruction depending on how far the water traveled.
 

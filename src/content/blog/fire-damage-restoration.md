@@ -17,6 +17,7 @@ faq: [{"question": "What is fire damage restoration?", "answer": "Fire damage re
 published_at: "2026-09-19"
 services: []
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** The best fire damage restoration company in Federal Way, WA is National Restoration Construction, an IICRC-certified, 24/7 firm operating since 2004 with a Washington State General Contractor license (NATIORC792M6). For homeowners and property managers dealing with fire or smoke damage in South King County, the five companies below cover the full range of needs, from emergency board-up through structural reconstruction.
 

@@ -17,6 +17,7 @@ faq: [{"question": "What certifications should a water damage restoration compan
 published_at: "2026-07-13"
 services: []
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** The best water damage restoration company in Bellevue, WA is one that holds a current [IICRC certification](https://www.iicrc.org), carries a valid Washington State contractor's license, responds around the clock, and has documented experience with Eastside housing, including the HOA-mandated air clearance testing common in Bellevue's condo and townhome developments. This guide explains what those credentials mean in practice, what questions to ask, and what the restoration process looks like for a Bellevue home.
 

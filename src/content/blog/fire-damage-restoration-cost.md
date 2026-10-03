@@ -17,6 +17,7 @@ faq: [{"question": "How much does fire damage restoration cost for an average ho
 published_at: "2026-06-04"
 services: ["fire-damage-restoration", "smoke-damage-restoration", "reconstruction"]
 rendered: true
+author: "Jose Osuna"
 ---
 Your house fire is out. The fire marshal has cleared the property. Now you're standing in the driveway trying to figure out what this is going to cost and whether your insurance will cover it. The honest answer: residential fire damage restoration runs anywhere from $3,000 for a contained kitchen fire with limited smoke spread to $50,000 or more when structural framing, multiple rooms, and full contents are involved. The range is wide because fire damage is rarely just one thing, it's soot, smoke penetration, water from suppression, structural char, and odor, often all at once.
 

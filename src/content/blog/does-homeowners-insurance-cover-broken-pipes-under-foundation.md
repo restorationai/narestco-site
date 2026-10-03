@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover the cost of breaking through
 published_at: "2026-05-29"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 Your plumber just told you the leak isn't under the sink, it's under the slab. Now you're staring at a five-figure repair estimate and wondering whether your homeowners policy will pay for any of it. The short answer: most standard HO-3 policies cover the water damage caused by a sudden, accidental pipe break under the foundation, but they typically exclude the cost of breaking through the slab to reach the pipe and almost always exclude foundation repair itself. What you get covered, and how much, depends heavily on how you document the loss.
 

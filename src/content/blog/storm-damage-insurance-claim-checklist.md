@@ -18,6 +18,7 @@ faq: [{"question": "How long do I have to file a storm damage insurance claim in
 published_at: "2026-05-13"
 services: ["storm-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 Before you dial your insurance company after a storm, spend 20–30 minutes doing this first. Adjusters move fast, initial estimates get locked in quickly, and anything you didn't document before that first call can become harder to add later. This checklist walks you through exactly what to photograph, record, and gather, so you walk into that conversation with evidence, not just a story.
 

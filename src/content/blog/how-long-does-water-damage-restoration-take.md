@@ -18,6 +18,7 @@ faq: [{"question": "Can I stay in my home during water damage restoration?", "an
 published_at: "2026-05-13"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 Most water damage restoration takes **3 to 5 days for drying alone**, but the full process, from the moment a technician arrives to the day your walls are repainted and your floors are reinstalled, typically runs **1 to 4 weeks**. That range isn't vague hand-waving. It reflects real variables: how long the water sat before anyone noticed, what materials got wet, whether mold started growing, and how deep the moisture traveled into structural layers. A burst pipe caught within an hour looks nothing like a slow refrigerator leak discovered two weeks later behind the kickplate.
 

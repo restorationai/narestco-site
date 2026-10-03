@@ -18,6 +18,7 @@ faq: [{"question": "Should I call my insurance company or a restoration company 
 published_at: "2026-05-13"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Jose Osuna"
 ---
 The honest answer to choosing a restoration company is this: the one who shows up first isn't always the one you should hire. After a pipe bursts or a fire chars your kitchen, the pressure to act immediately is real, but signing a contract with the first crew that knocks on your door can cost you thousands in inflated bills, shoddy repairs, or a claim your insurer refuses to pay. Here's how to slow down just enough to make a smart call.
 

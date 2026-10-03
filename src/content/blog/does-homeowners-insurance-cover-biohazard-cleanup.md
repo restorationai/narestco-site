@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover cleanup after an unattended 
 published_at: "2026-07-20"
 services: ["biohazard-cleanup"]
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Homeowners insurance may cover biohazard cleanup when the event that caused it, an unattended death, a traumatic accident, or a sewage backup, is a covered peril under your policy. Coverage is not automatic, and many policies exclude it entirely or cap it at a low sublimit. The most important step is calling your insurance carrier before cleanup begins, and hiring a certified biohazard remediation company that can document the scope in writing for your adjuster.
 

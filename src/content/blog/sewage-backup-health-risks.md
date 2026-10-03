@@ -18,6 +18,7 @@ faq: [{"question": "Can I get sick just from being in a room with sewage backup 
 published_at: "2026-05-13"
 services: ["sewage-cleanup"]
 rendered: true
+author: "Jose Osuna"
 ---
 Sewage backup is one of the few home emergencies where the instinct to handle it yourself can land you in the hospital. Raw sewage, whether it's backing up through a floor drain, a toilet, or a basement utility sink, contains a cocktail of bacteria, viruses, and parasites that don't wash off your skin the way mud does. Before you grab a mop and a bottle of bleach, here's what you're actually dealing with, why standard cleaning products fall short, and what the cleanup process genuinely requires to be safe.
 

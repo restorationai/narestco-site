@@ -16,6 +16,7 @@ faq: [{"question": "Can mold make you sick even if you can't see it?", "answer":
 published_at: "2026-06-21"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Jose Osuna"
 ---
 If you've spotted a dark stain on your ceiling, caught a musty smell after a plumbing leak, or found something fuzzy growing behind a piece of furniture, you're probably wondering whether you actually have mold, and whether you can figure that out yourself. The short answer: DIY mold test kits can confirm that mold spores are present somewhere in your home, but they can't tell you what species you're dealing with, how much of it exists, where it's coming from, or whether the air quality in your living space is genuinely elevated. A professional mold inspection does all of that. Here's how to decide which route makes sense for your situation.
 

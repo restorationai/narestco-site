@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover water damage if rain comes i
 published_at: "2026-05-29"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 If rain water got inside your home and you're wondering whether your homeowners policy will pay for it, the answer depends on one critical question: *how* did the water get in. Rain itself isn't a covered peril under most standard HO-3 policies. What's covered is the structural damage that let the rain enter, and that distinction determines whether you get a check or a denial.
 

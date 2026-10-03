@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover smoke damage if there was no
 published_at: "2026-06-15"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 If you're standing in front of a fire-damaged home trying to figure out whether your insurance policy will actually pay, the short answer is yes, most standard homeowners policies cover accidental fire damage, and that coverage extends further than many policyholders realize. It includes not just the structural damage from flames, but smoke penetration, soot residue on contents, and even the water damage caused by firefighting efforts. What you need to understand is the scope of that coverage, the exclusions that can derail a claim, and the documentation steps that separate a smooth payout from a prolonged dispute.
 

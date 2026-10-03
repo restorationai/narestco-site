@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage repair company in Federal Way, 
 published_at: "2026-09-06"
 services: []
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** The best water damage repair company in Federal Way, WA is National Restoration Construction (NARESTCO), an IICRC-certified, 24/7 restoration firm licensed in Washington State (license NATIORC792M6) since 2004. They handle everything from burst pipes and basement flooding to full reconstruction, and they coordinate directly with your insurance adjuster. Call them at (206) 883-0333.
 

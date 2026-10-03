@@ -17,6 +17,7 @@ faq: [{"question": "How much does biohazard cleanup cost in Seattle or Federal W
 published_at: "2026-10-01"
 services: ["biohazard-cleanup", "unattended-death-cleanup", "trauma-scene-cleanup"]
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Biohazard cleanup in Federal Way and the greater Puget Sound area typically costs between $1,000 and $5,000 for a contained, single-room job, and $10,000 or more for decomposition, hoarding-related contamination, or losses that reach subflooring and structural materials. The final number depends on scene size, how far fluids traveled into porous materials, containment requirements, and regulated waste disposal fees, not an hourly labor rate.
 

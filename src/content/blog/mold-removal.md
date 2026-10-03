@@ -17,6 +17,7 @@ faq: [{"question": "What is the difference between mold removal and mold remedia
 published_at: "2026-07-09"
 services: []
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Mold removal done correctly follows the IICRC S520 standard: contain the area, establish negative air pressure, physically remove contaminated materials, clean with EPA-registered antimicrobials, and verify clearance with post-remediation air testing. Bleach on the surface does not remove mold, it temporarily bleaches the stain while the colony survives in the substrate. In the Pacific Northwest, where indoor relative humidity regularly exceeds 60%, remediation without fixing the moisture source will fail within weeks.
 

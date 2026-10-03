@@ -17,6 +17,7 @@ faq: [{"question": "How long does fire damage restoration take from start to fin
 published_at: "2026-06-08"
 services: ["fire-damage-restoration", "smoke-damage-restoration", "soot-removal", "odor-removal"]
 rendered: true
+author: "Jose Osuna"
 ---
 Your house fire is out. The fire department has cleared the scene. Now you're standing in front of a property that smells like a chimney, has blackened walls, and may have water damage on top of the fire damage from suppression efforts. What happens next, and in what order? Here's the full fire damage restoration process broken into seven stages, with the reasoning behind each one.
 

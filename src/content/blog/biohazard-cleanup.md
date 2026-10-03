@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best biohazard cleanup company in Federal Way, WA
 published_at: "2026-09-17"
 services: []
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** For biohazard cleanup in Federal Way and the greater Puget Sound region, National Restoration Construction ranks first based on 24/7 availability, IICRC certification, EPA certification, a General Contractor license (NATIORC792M6), and 20-plus years serving South King County. Below are five real, vetted companies with honest ratings and what each does well.
 

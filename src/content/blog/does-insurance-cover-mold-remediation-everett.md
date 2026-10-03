@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover mold remediation?", "answer"
 published_at: "2026-08-03"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Jose Osuna"
 ---
 **TL;DR:** Homeowners insurance typically covers mold remediation when the mold grew directly from a sudden, accidental water event that is itself covered, like a burst pipe or an appliance failure. It almost never covers mold from a slow leak, chronic condensation, or flooding. In Everett's wet Snohomish County climate, the line between "sudden" and "gradual" is the single most important factor in whether your claim gets paid.
 
