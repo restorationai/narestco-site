@@ -473,3 +473,9 @@
 /service-areas/vashon-wa/water-cleanup/ /service-areas/vashon-wa/water-damage-restoration/ 301
 /service-areas/waller-wa/water-cleanup /service-areas/waller-wa/water-damage-restoration/ 301
 /service-areas/waller-wa/water-cleanup/ /service-areas/waller-wa/water-damage-restoration/ 301
+
+# old-site 404 recovery 2026-10-04 (traffic audit class 2, SEO queue 1c): old URLs with search
+# traffic that matched no rule. Each 301s 1:1 to its equivalent page (hand-reviewed), never a
+# generic one; restored articles live under /blog/.
+/service-areas/auburn-wa/asbestos-lead-abatement /services/asbestos-abatement/ 301
+/service-areas/auburn-wa/asbestos-lead-abatement/ /services/asbestos-abatement/ 301
