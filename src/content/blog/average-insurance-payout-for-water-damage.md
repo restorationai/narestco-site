@@ -39,9 +39,9 @@ Most standard HO-3 homeowners policies cover sudden and accidental water damage 
 
 **Flooding from external sources** is excluded from standard homeowners policies entirely. Groundwater intrusion, storm surge, and overland flooding require a separate NFIP (National Flood Insurance Program) policy or a private flood endorsement. This distinction catches homeowners off guard regularly. If water entered your home through a window well, a foundation crack, or overland flow during a heavy rain event, your standard policy likely won't cover it.
 
-**Sewer backup** is excluded from most base policies but can be added as an endorsement, typically for $50 to $150 per year. If you have a finished basement and no sewer backup rider, a sewage backup event is an out-of-pocket loss.
+**Sewer backup** is excluded from most base policies but can be added as an endorsement, typically for $50 to $150 per year. If you have a finished basement and no sewer backup rider, a sewage backup event is an out-of-pocket loss, including the cost of professional [sewage cleanup](/services/sewage-cleanup/).
 
-**Mold remediation** coverage varies widely. Some policies include a sublimit for mold, often $5,000 to $10,000, while others exclude it entirely unless the mold resulted directly from a covered water loss. If mold is discovered during remediation of a covered burst pipe claim, it's generally covered under that same claim. If it's discovered independently months later, coverage depends on whether you can establish a direct causal link to a covered event.
+**[Mold remediation](/services/mold-remediation/)** coverage varies widely. Some policies include a sublimit for mold, often $5,000 to $10,000, while others exclude it entirely unless the mold resulted directly from a covered water loss. If mold is discovered during remediation of a covered burst pipe claim, it's generally covered under that same claim. If it's discovered independently months later, coverage depends on whether you can establish a direct causal link to a covered event.
 
 ## How Documentation Affects the Final Payout
 
@@ -77,4 +77,4 @@ The actions you take immediately after discovering water damage directly affect 
 
 If the loss is significant, a restoration contractor who works directly with insurance carriers can help ensure the scope of work aligns with what the adjuster approves. That coordination matters more than most homeowners realize.
 
-National Restoration Construction handles water damage assessments, full-scope remediation, and post-drying documentation for insurance claims across the Pacific Northwest. If you're in the middle of a loss and need a written scope for your adjuster, request a water damage assessment through our contact page.
+National Restoration Construction handles water damage assessments, full-scope [water damage restoration](/services/water-damage-restoration/), and post-drying documentation for insurance claims across the Pacific Northwest. If you're in the middle of a loss and need a written scope for your adjuster, request a water damage assessment through our contact page.

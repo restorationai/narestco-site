@@ -77,7 +77,7 @@ The [EPA's mold guidance](https://www.epa.gov/mold) recommends professional reme
 
 **About National Restoration Construction**
 
-National Restoration Construction is an IICRC-certified, EPA-certified, and Lead-Safe Certified restoration contractor serving Federal Way and South King County since 2004 (WA license NATIORC792M6). Their crews handle water damage restoration, flood damage, burst pipe repair, mold remediation, fire and smoke damage, sewage cleanup, storm damage, and full reconstruction across the greater Puget Sound region. Available 24/7 at (206) 883-0333.
+National Restoration Construction is an IICRC-certified, EPA-certified, and Lead-Safe Certified restoration contractor serving Federal Way and South King County since 2004 (WA license NATIORC792M6). Their crews handle [water damage restoration](/services/water-damage-restoration/), [flood damage](/services/flood-damage-restoration/), burst pipe repair, [mold remediation](/services/mold-remediation/), fire and smoke damage, sewage cleanup, storm damage, and full reconstruction across the greater Puget Sound region. Available 24/7 at (206) 883-0333.
 
 ## Video Transcript
 
