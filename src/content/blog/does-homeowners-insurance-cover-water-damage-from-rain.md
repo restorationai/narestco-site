@@ -60,7 +60,7 @@ The most common rain-related claim denials come down to a few recurring patterns
 
 ## How to Document a Rain-Related Water Damage Claim
 
-Documentation is the difference between a smooth claim and a protracted dispute. If you're dealing with rain intrusion right now, here's the sequence:
+Documentation is the difference between a smooth claim and a protracted dispute, and it shapes the final number (see our breakdown of the [average insurance payout for water damage](/blog/average-insurance-payout-for-water-damage/)). If you're dealing with rain intrusion right now, here's the sequence:
 
 1. **Photograph the breach point** before any repairs. Get the exterior opening, the interior water path, and the affected materials. Date-stamped photos from your phone are fine.
 2. **Pull weather data.** NOAA's storm event database and Weather Underground both let you pull historical precipitation and wind-speed records for a specific date and zip code. Print or screenshot the data for your claim file.

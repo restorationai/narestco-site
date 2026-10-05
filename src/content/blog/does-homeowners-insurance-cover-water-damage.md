@@ -56,7 +56,7 @@ The exclusions are where most claim disputes happen. Knowing them in advance hel
 
 ## How to Document a Water Damage Claim Correctly
 
-Documentation quality directly affects claim outcomes. Adjusters work from evidence, and the more organized yours is, the less room there is for dispute.
+Documentation quality directly affects claim outcomes, including the [average insurance payout for water damage](/blog/average-insurance-payout-for-water-damage/) you can expect. Adjusters work from evidence, and the more organized yours is, the less room there is for dispute.
 
 **Before any cleanup, photograph everything.** Wide shots of the affected rooms, close-ups of the failure point (the burst pipe, the failed hose, the overflow source), and systematic photos of every affected surface. If you have a smartphone, the metadata timestamps on photos can support the "sudden" argument, they show when you discovered the damage.
 
