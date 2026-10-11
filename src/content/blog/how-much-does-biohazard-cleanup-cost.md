@@ -52,7 +52,7 @@ Five factors drive the real number:
 4. **Regulated waste disposal.** Biohazard waste can't go in a regular dumpster. It's transported by a licensed medical waste hauler and disposed of under state and local biomedical waste rules, and that disposal fee is a fixed cost per job, not a variable one.
 5. **Documentation.** Photo documentation, a written scope of work, and disposal manifests protect the property owner if an insurance claim or an estate is involved. That paperwork is part of the job, not an add-on.
 
-Washington's biohazard disposal and decontamination standards draw on both state law (see [RCW 64.44](https://app.leg.wa.gov/rcw/default.aspx?cite=64.44), which governs structure decontamination standards) and industry protocols like the [IICRC S540 standard](https://www.iicrc.org/page/IICRCS540) for trauma and crime scene cleanup. A legitimate company scopes the job against these standards, not against a clock.
+Washington's biohazard disposal and decontamination standards draw on both state law (see [RCW 64.44](https://app.leg.wa.gov/rcw/default.aspx?cite=64.44), which governs structure decontamination standards) and industry protocols like the [IICRC S540 standard](https://iicrc.org/s540/) for trauma and crime scene cleanup. A legitimate company scopes the job against these standards, not against a clock.
 
 ![Why Doesn't Biohazard Cleanup Have a Flat Per-Hour Rate: how much does biohazard cleanup cost](https://images.narestco.com/blog/2026/10/how-much-does-biohazard-cleanup-cost/section.webp)
 

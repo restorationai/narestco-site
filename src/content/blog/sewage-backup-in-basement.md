@@ -33,9 +33,9 @@ Photograph the damage from the doorway for insurance purposes, but don't go furt
 
 ## Is a Sewage Backup Actually Dangerous?
 
-Yes. Raw sewage is classified as Category 3, or "black water," under the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500), the industry benchmark for water damage restoration, because it can contain bacteria like E. coli, viruses, and parasites that cause gastrointestinal illness, skin infections, and respiratory irritation.
+Yes. Raw sewage is classified as Category 3, or "black water," under the [IICRC S500 standard](https://iicrc.org/s500/), the industry benchmark for water damage restoration, because it can contain bacteria like E. coli, viruses, and parasites that cause gastrointestinal illness, skin infections, and respiratory irritation.
 
-Exposure risk isn't limited to direct contact. As sewage-contaminated water sits, it can also feed rapid mold growth on drywall, carpet padding, and wood framing, particularly in a basement where humidity is already higher and airflow is limited. The [CDC's guidance on mold and moisture](https://www.cdc.gov/mold/php/about/index.html) notes that mold can begin colonizing damp materials within 24 to 48 hours, which is why sewage cleanup and structural drying need to happen together, not as two separate problems tackled weeks apart.
+Exposure risk isn't limited to direct contact. As sewage-contaminated water sits, it can also feed rapid mold growth on drywall, carpet padding, and wood framing, particularly in a basement where humidity is already higher and airflow is limited. The [CDC's guidance on mold and moisture](https://www.cdc.gov/mold-health/about/index.html) notes that mold can begin colonizing damp materials within 24 to 48 hours, which is why sewage cleanup and structural drying need to happen together, not as two separate problems tackled weeks apart.
 
 Anyone with a compromised immune system, young children, or pets should stay out of the home entirely until a restoration crew confirms the area is safe. This isn't an overreaction. It's the same precaution IICRC-certified technicians use themselves, which is why full personal protective equipment, not just gloves, is standard on every sewage call.
 

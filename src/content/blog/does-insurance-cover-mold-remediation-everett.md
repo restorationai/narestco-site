@@ -27,7 +27,7 @@ If you just discovered mold in your Bayside bungalow or a Silver Lake subdivisio
 
 Mold is covered by most standard homeowners policies only when it is a direct result of a covered peril, meaning a water event the policy already pays for. If a pipe burst in your wall and mold appeared within days, that mold is typically covered as part of the water damage claim. If a slow drip under a bathroom sink fed mold growth over six months, most policies will deny the mold claim entirely, citing the gradual-damage exclusion.
 
-The [Insurance Information Institute](https://www.iii.org/article/what-covered-standard-homeowners-policy) describes mold as a coverage gray area: it may be included, excluded, or subject to a separate sublimit depending on your specific policy language. Read your declarations page and look for the word "fungi", that is the term most policies use when defining mold coverage and exclusions.
+The [Insurance Information Institute](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance) describes mold as a coverage gray area: it may be included, excluded, or subject to a separate sublimit depending on your specific policy language. Read your declarations page and look for the word "fungi", that is the term most policies use when defining mold coverage and exclusions.
 
 A few things that are almost always excluded regardless of policy:
 
