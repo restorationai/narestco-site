@@ -63,11 +63,11 @@ If the smoke event was limited, a single piece of toast, a small candle, ventila
 
 At that point, the issue isn't just comfort, it's air quality. Fine soot particles (PM2.5 and smaller) remain suspended in air and in soft surfaces for extended periods and are associated with respiratory irritation.
 
-National Restoration Construction handles smoke and [fire damage restoration](/fire-damage-restoration) throughout the Federal Way area and responds to calls at **(206) 883-0333**. If you're uncertain whether your situation requires professional intervention, a walk-through assessment can give you a clear answer before you commit to anything.
+National Restoration Construction handles smoke and [fire damage restoration](/blog/fire-damage-restoration/) throughout the Federal Way area and responds to calls at **(206) 883-0333**. If you're uncertain whether your situation requires professional intervention, a walk-through assessment can give you a clear answer before you commit to anything.
 
 ## What to Expect During Professional Smoke Remediation
 
-The timeline depends on the severity of the event and the size of the affected area. A contained kitchen fire in a 1,500 sq ft home might require two to three days of active remediation. A whole-house fire with structural involvement can take weeks, particularly when [smoke damage restoration](/smoke-damage-restoration) is combined with structural drying, reconstruction, and insurance documentation.
+The timeline depends on the severity of the event and the size of the affected area. A contained kitchen fire in a 1,500 sq ft home might require two to three days of active remediation. A whole-house fire with structural involvement can take weeks, particularly when [smoke damage restoration](/services/smoke-damage-restoration/) is combined with structural drying, reconstruction, and insurance documentation.
 
 During treatment, especially during ozone or thermal fogging phases, the structure will need to be vacated. Plan for at least one overnight stay elsewhere if the affected area is your primary living space.
 
