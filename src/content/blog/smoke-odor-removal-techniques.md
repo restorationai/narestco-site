@@ -52,7 +52,7 @@ There's also a risk of making things worse. Scrubbing dry soot with a wet cloth 
 
 ## When to Call a Professional
 
-If the smoke event was limited, a single piece of toast, a small candle, ventilation and basic surface cleaning may genuinely be enough. But if any of the following apply, professional remediation is the more practical path:
+If the smoke event was limited (a single piece of burnt toast or a small candle), ventilation and basic surface cleaning may genuinely be enough. But if any of the following apply, professional remediation is the more practical path:
 
 - The smoke was present for more than 15–20 minutes in an enclosed space
 - The fire involved synthetic materials, plastics, or anything with a chemical smell
