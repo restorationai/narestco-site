@@ -63,7 +63,7 @@ If the smoke event was limited, a single piece of toast, a small candle, ventila
 
 At that point, the issue isn't just comfort, it's air quality. Fine soot particles (PM2.5 and smaller) remain suspended in air and in soft surfaces for extended periods and are associated with respiratory irritation.
 
-National Restoration Construction handles smoke and [fire damage restoration](/blog/fire-damage-restoration/) throughout the Federal Way area and responds to calls at **(206) 883-0333**. If you're uncertain whether your situation requires professional intervention, a walk-through assessment can give you a clear answer before you commit to anything.
+National Restoration Construction handles smoke and [fire damage restoration](/services/fire-damage-restoration/) throughout the Federal Way area and responds to calls at **(206) 883-0333**. If you're uncertain whether your situation requires professional intervention, a walk-through assessment can give you a clear answer before you commit to anything.
 
 ## What to Expect During Professional Smoke Remediation
 
