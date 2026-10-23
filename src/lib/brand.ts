@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "65",
+  gbpReviewCount: "66",
   gbpReviews: [
     { author: "Sharon", rating: 5, text: "National Restoration Company did Exceptional work for us in cleaning after the passing of my brother at home from cancer. They were very responsive, and also courteous. It was a very challenging time for us. I highly recommend.", when: "October 2026" },
     { author: "Lauren", rating: 5, text: "National Restoration Construction were great to work with. Responsive, available, efficient and polite. Great quality work.", when: "September 2026" },
