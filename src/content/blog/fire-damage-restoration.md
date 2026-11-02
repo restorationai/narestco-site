@@ -97,7 +97,7 @@ Rainbow International is another nationally franchised restoration brand with a 
 
 ## What to Look for When Choosing a Fire Restoration Company
 
-Choosing the right company after a fire comes down to three things: credentials, scope, and communication.
+Choosing the right [fire restoration company](/services/fire-damage-restoration/) comes down to three things: credentials, scope, and communication.
 
 **Credentials** mean IICRC certification (specifically the Fire and Smoke Restoration Technician, or FSRT, credential) and a valid Washington State contractor license. You can verify any WA contractor license at the [L&I Contractor Lookup](https://secure.lni.wa.gov/verify/). An unlicensed contractor cannot legally pull permits for structural repairs, which creates problems when you go to sell the property.
 

@@ -32,7 +32,7 @@ If your basement in Ballard just took on water from a sewer backup, or a plumbin
 
 NARESTCO holds a 5.0 average rating across 64 Google reviews, is IICRC certified, EPA certified, a Lead-Safe Certified Firm, and BBB accredited, and operates a 24/7 emergency line at (206) 883-0333. The company has served the greater Puget Sound region, including Seattle, since 2004 and carries an active Washington General Contractor Certificate of Registration (license NATIORC792M6, verifiable through the [WA Department of Labor & Industries](https://secure.lni.wa.gov/verify/)).
 
-For Seattle specifically, that matters because the city's housing stock is split between pre-1950 craftsman and Tudor homes near Ballard and Wallingford (plaster walls, original foundations prone to basement seepage) and newer condo towers around Capitol Hill and South Lake Union, where a single failed plumbing stack can flood multiple units at once. A crew that understands both building types, and documents the loss the way an adjuster expects, is the difference between a clean claim and a drawn-out one.
+For [flood damage restoration in Seattle](/service-areas/seattle-wa/flood-damage-restoration/) specifically, that matters because the city's housing stock is split between pre-1950 craftsman and Tudor homes near Ballard and Wallingford (plaster walls, original foundations prone to basement seepage) and newer condo towers around Capitol Hill and South Lake Union, where a single failed plumbing stack can flood multiple units at once. A crew that understands both building types, and documents the loss the way an adjuster expects, is the difference between a clean claim and a drawn-out one.
 
 ### 2. ServPro (Seattle-area franchise)
 
