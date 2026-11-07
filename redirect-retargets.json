@@ -1,0 +1,608 @@
+{
+ "/service-areas/algona-wa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/algona-wa/air-duct-cleaning/",
+  "now": "/service-areas/algona-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/algona-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/algona-wa/sewage-cleanup/",
+  "now": "/service-areas/algona-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/algona-wa/basement-water-cleanup": {
+  "planned": "/service-areas/algona-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/algona-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/algona-wa/soot-removal": {
+  "planned": "/service-areas/algona-wa/smoke-damage-restoration/",
+  "now": "/service-areas/algona-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/algona-wa/water-cleanup": {
+  "planned": "/service-areas/algona-wa/emergency-water-removal/",
+  "now": "/service-areas/algona-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/algona-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/algona-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/algona-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/auburn-wa/water-cleanup": {
+  "planned": "/service-areas/auburn-wa/emergency-water-removal/",
+  "now": "/service-areas/auburn-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/bellevue-wa/water-cleanup": {
+  "planned": "/service-areas/bellevue-wa/emergency-water-removal/",
+  "now": "/service-areas/bellevue-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/bremerton-wa/water-cleanup": {
+  "planned": "/service-areas/bremerton-wa/emergency-water-removal/",
+  "now": "/service-areas/bremerton-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/burien-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/burien-wa/sewage-cleanup/",
+  "now": "/service-areas/burien-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/burien-wa/basement-water-cleanup": {
+  "planned": "/service-areas/burien-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/burien-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/burien-wa/soot-removal": {
+  "planned": "/service-areas/burien-wa/smoke-damage-restoration/",
+  "now": "/service-areas/burien-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/burien-wa/water-cleanup": {
+  "planned": "/service-areas/burien-wa/emergency-water-removal/",
+  "now": "/service-areas/burien-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/burien-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/burien-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/burien-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/des-moines-wa/basement-water-cleanup": {
+  "planned": "/service-areas/des-moines-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/des-moines-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/des-moines-wa/soot-removal": {
+  "planned": "/service-areas/des-moines-wa/smoke-damage-restoration/",
+  "now": "/service-areas/des-moines-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/des-moines-wa/water-cleanup": {
+  "planned": "/service-areas/des-moines-wa/emergency-water-removal/",
+  "now": "/service-areas/des-moines-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/des-moines-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/des-moines-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/des-moines-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/edgewood-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/edgewood-wa/sewage-cleanup/",
+  "now": "/service-areas/edgewood-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/edgewood-wa/basement-water-cleanup": {
+  "planned": "/service-areas/edgewood-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/edgewood-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/edgewood-wa/soot-removal": {
+  "planned": "/service-areas/edgewood-wa/smoke-damage-restoration/",
+  "now": "/service-areas/edgewood-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/edgewood-wa/water-cleanup": {
+  "planned": "/service-areas/edgewood-wa/emergency-water-removal/",
+  "now": "/service-areas/edgewood-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/edgewood-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/edgewood-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/edgewood-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/everett-wa/water-cleanup": {
+  "planned": "/service-areas/everett-wa/emergency-water-removal/",
+  "now": "/service-areas/everett-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fife-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/fife-wa/sewage-cleanup/",
+  "now": "/service-areas/fife-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fife-wa/basement-water-cleanup": {
+  "planned": "/service-areas/fife-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/fife-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fife-wa/soot-removal": {
+  "planned": "/service-areas/fife-wa/smoke-damage-restoration/",
+  "now": "/service-areas/fife-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fife-wa/water-cleanup": {
+  "planned": "/service-areas/fife-wa/emergency-water-removal/",
+  "now": "/service-areas/fife-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fife-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/fife-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/fife-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/gig-harbor-wa/water-cleanup": {
+  "planned": "/service-areas/gig-harbor-wa/emergency-water-removal/",
+  "now": "/service-areas/gig-harbor-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/kent-wa/water-cleanup": {
+  "planned": "/service-areas/kent-wa/emergency-water-removal/",
+  "now": "/service-areas/kent-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/kirkland-wa/water-cleanup": {
+  "planned": "/service-areas/kirkland-wa/emergency-water-removal/",
+  "now": "/service-areas/kirkland-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-holm-wa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/lake-holm-wa/air-duct-cleaning/",
+  "now": "/service-areas/lake-holm-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-holm-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/lake-holm-wa/sewage-cleanup/",
+  "now": "/service-areas/lake-holm-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-holm-wa/basement-water-cleanup": {
+  "planned": "/service-areas/lake-holm-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/lake-holm-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-holm-wa/soot-removal": {
+  "planned": "/service-areas/lake-holm-wa/smoke-damage-restoration/",
+  "now": "/service-areas/lake-holm-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-holm-wa/water-cleanup": {
+  "planned": "/service-areas/lake-holm-wa/emergency-water-removal/",
+  "now": "/service-areas/lake-holm-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-holm-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/lake-holm-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/lake-holm-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-north-wa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/lakeland-north-wa/air-duct-cleaning/",
+  "now": "/service-areas/lakeland-north-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-north-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/lakeland-north-wa/sewage-cleanup/",
+  "now": "/service-areas/lakeland-north-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-north-wa/basement-water-cleanup": {
+  "planned": "/service-areas/lakeland-north-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/lakeland-north-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-north-wa/soot-removal": {
+  "planned": "/service-areas/lakeland-north-wa/smoke-damage-restoration/",
+  "now": "/service-areas/lakeland-north-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-north-wa/water-cleanup": {
+  "planned": "/service-areas/lakeland-north-wa/emergency-water-removal/",
+  "now": "/service-areas/lakeland-north-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-north-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/lakeland-north-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/lakeland-north-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-south-wa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/lakeland-south-wa/air-duct-cleaning/",
+  "now": "/service-areas/lakeland-south-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-south-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/lakeland-south-wa/sewage-cleanup/",
+  "now": "/service-areas/lakeland-south-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-south-wa/basement-water-cleanup": {
+  "planned": "/service-areas/lakeland-south-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/lakeland-south-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-south-wa/soot-removal": {
+  "planned": "/service-areas/lakeland-south-wa/smoke-damage-restoration/",
+  "now": "/service-areas/lakeland-south-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-south-wa/water-cleanup": {
+  "planned": "/service-areas/lakeland-south-wa/emergency-water-removal/",
+  "now": "/service-areas/lakeland-south-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lakeland-south-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/lakeland-south-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/lakeland-south-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/milton-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/milton-wa/sewage-cleanup/",
+  "now": "/service-areas/milton-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/milton-wa/basement-water-cleanup": {
+  "planned": "/service-areas/milton-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/milton-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/milton-wa/soot-removal": {
+  "planned": "/service-areas/milton-wa/smoke-damage-restoration/",
+  "now": "/service-areas/milton-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/milton-wa/water-cleanup": {
+  "planned": "/service-areas/milton-wa/emergency-water-removal/",
+  "now": "/service-areas/milton-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/milton-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/milton-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/milton-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/normandy-park-wa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/normandy-park-wa/air-duct-cleaning/",
+  "now": "/service-areas/normandy-park-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/normandy-park-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/normandy-park-wa/sewage-cleanup/",
+  "now": "/service-areas/normandy-park-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/normandy-park-wa/basement-water-cleanup": {
+  "planned": "/service-areas/normandy-park-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/normandy-park-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/normandy-park-wa/soot-removal": {
+  "planned": "/service-areas/normandy-park-wa/smoke-damage-restoration/",
+  "now": "/service-areas/normandy-park-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/normandy-park-wa/water-cleanup": {
+  "planned": "/service-areas/normandy-park-wa/emergency-water-removal/",
+  "now": "/service-areas/normandy-park-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/normandy-park-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/normandy-park-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/normandy-park-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/north-puyallup-wa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/north-puyallup-wa/air-duct-cleaning/",
+  "now": "/service-areas/north-puyallup-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/north-puyallup-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/north-puyallup-wa/sewage-cleanup/",
+  "now": "/service-areas/north-puyallup-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/north-puyallup-wa/basement-water-cleanup": {
+  "planned": "/service-areas/north-puyallup-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/north-puyallup-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/north-puyallup-wa/soot-removal": {
+  "planned": "/service-areas/north-puyallup-wa/smoke-damage-restoration/",
+  "now": "/service-areas/north-puyallup-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/north-puyallup-wa/water-cleanup": {
+  "planned": "/service-areas/north-puyallup-wa/emergency-water-removal/",
+  "now": "/service-areas/north-puyallup-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/north-puyallup-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/north-puyallup-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/north-puyallup-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pacific-wa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/pacific-wa/air-duct-cleaning/",
+  "now": "/service-areas/pacific-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pacific-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/pacific-wa/sewage-cleanup/",
+  "now": "/service-areas/pacific-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pacific-wa/basement-water-cleanup": {
+  "planned": "/service-areas/pacific-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/pacific-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pacific-wa/soot-removal": {
+  "planned": "/service-areas/pacific-wa/smoke-damage-restoration/",
+  "now": "/service-areas/pacific-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pacific-wa/water-cleanup": {
+  "planned": "/service-areas/pacific-wa/emergency-water-removal/",
+  "now": "/service-areas/pacific-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pacific-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/pacific-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/pacific-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/port-orchard-wa/water-cleanup": {
+  "planned": "/service-areas/port-orchard-wa/emergency-water-removal/",
+  "now": "/service-areas/port-orchard-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/redmond-wa/water-cleanup": {
+  "planned": "/service-areas/redmond-wa/emergency-water-removal/",
+  "now": "/service-areas/redmond-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/renton-wa/water-cleanup": {
+  "planned": "/service-areas/renton-wa/emergency-water-removal/",
+  "now": "/service-areas/renton-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/seatac-wa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/seatac-wa/air-duct-cleaning/",
+  "now": "/service-areas/seatac-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/seatac-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/seatac-wa/sewage-cleanup/",
+  "now": "/service-areas/seatac-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/seatac-wa/basement-water-cleanup": {
+  "planned": "/service-areas/seatac-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/seatac-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/seatac-wa/soot-removal": {
+  "planned": "/service-areas/seatac-wa/smoke-damage-restoration/",
+  "now": "/service-areas/seatac-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/seatac-wa/water-cleanup": {
+  "planned": "/service-areas/seatac-wa/emergency-water-removal/",
+  "now": "/service-areas/seatac-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/seatac-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/seatac-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/seatac-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/seattle-wa/water-cleanup": {
+  "planned": "/service-areas/seattle-wa/emergency-water-removal/",
+  "now": "/service-areas/seattle-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sumner-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/sumner-wa/sewage-cleanup/",
+  "now": "/service-areas/sumner-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sumner-wa/basement-water-cleanup": {
+  "planned": "/service-areas/sumner-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/sumner-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sumner-wa/soot-removal": {
+  "planned": "/service-areas/sumner-wa/smoke-damage-restoration/",
+  "now": "/service-areas/sumner-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sumner-wa/water-cleanup": {
+  "planned": "/service-areas/sumner-wa/emergency-water-removal/",
+  "now": "/service-areas/sumner-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sumner-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/sumner-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/sumner-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/tacoma-wa/water-cleanup": {
+  "planned": "/service-areas/tacoma-wa/emergency-water-removal/",
+  "now": "/service-areas/tacoma-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/university-place-wa/water-cleanup": {
+  "planned": "/service-areas/university-place-wa/emergency-water-removal/",
+  "now": "/service-areas/university-place-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/vashon-wa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/vashon-wa/air-duct-cleaning/",
+  "now": "/service-areas/vashon-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/vashon-wa/basement-water-cleanup": {
+  "planned": "/service-areas/vashon-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/vashon-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/vashon-wa/soot-removal": {
+  "planned": "/service-areas/vashon-wa/smoke-damage-restoration/",
+  "now": "/service-areas/vashon-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/vashon-wa/water-cleanup": {
+  "planned": "/service-areas/vashon-wa/emergency-water-removal/",
+  "now": "/service-areas/vashon-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/vashon-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/vashon-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/vashon-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/waller-wa/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/waller-wa/air-duct-cleaning/",
+  "now": "/service-areas/waller-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/waller-wa/basement-sewage-cleanup": {
+  "planned": "/service-areas/waller-wa/sewage-cleanup/",
+  "now": "/service-areas/waller-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/waller-wa/basement-water-cleanup": {
+  "planned": "/service-areas/waller-wa/basement-flooding-cleanup/",
+  "now": "/service-areas/waller-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/waller-wa/soot-removal": {
+  "planned": "/service-areas/waller-wa/smoke-damage-restoration/",
+  "now": "/service-areas/waller-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/waller-wa/water-cleanup": {
+  "planned": "/service-areas/waller-wa/emergency-water-removal/",
+  "now": "/service-areas/waller-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/waller-wa/water-heater-flood-cleanup": {
+  "planned": "/service-areas/waller-wa/appliance-leak-cleanup/",
+  "now": "/service-areas/waller-wa/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
