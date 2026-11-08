@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | National Restoration Construction Restoration"
+title: "Service Areas | National Restoration Construction"
 h1: "Areas We Serve"
 meta_description: "National Restoration Construction provides 24/7 restoration services across Federal Way and the surrounding region. Find your city."
 primary_keyword: "national restoration construction service areas"
