@@ -68,7 +68,7 @@ You can handle a small, contained spill, a dishwasher that leaked onto a tile fl
 - **Anyone in the home has respiratory sensitivities, asthma, or a compromised immune system.** Disturbing mold colonies without containment spreads spores through the air and can worsen symptoms significantly.
 - **The water damage involves structural materials**, subfloor, wall framing, ceiling joists. Drying these materials correctly requires commercial-grade dehumidifiers and air movers, and verifying dryness requires equipment most homeowners don't have access to.
 
-At this point, a professional [water damage restoration](https://www.nationalrestorationconstruction.com) assessment isn't just about mold, it's about understanding the full scope of what happened inside your walls before you close them back up.
+At this point, a professional water damage restoration assessment isn't just about mold, it's about understanding the full scope of what happened inside your walls before you close them back up.
 
 ## What the Remediation and Recovery Process Actually Looks Like
 
