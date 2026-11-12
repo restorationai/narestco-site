@@ -42,6 +42,24 @@ If you are a California resident, the California Consumer Privacy Act (CCPA) giv
 
 GDPR (the European Union's General Data Protection Regulation) is unlikely to apply to most visitors of this site, as our services are limited to the greater Seattle and Western Washington area. If you believe GDPR applies to your situation, contact us and we will work with you in good faith.
 
+## SMS Privacy Policy
+
+### Communication via SMS and Mobile Messaging
+
+By providing your mobile phone number to National Restoration Construction LLC ("National Restoration Construction"), you expressly consent to receive communications from us, including text messages (SMS or MMS) and phone calls, related to your use of our services, your account, transactional updates, or other service-related notifications. These communications may be sent via automated technology or manual dialing systems. Message frequency may vary based on your interaction with National Restoration Construction. Standard message and data rates may apply. Please contact your mobile carrier for details.
+
+### Opting Out
+
+You may opt out of receiving SMS messages from National Restoration Construction at any time by replying "STOP" to any SMS you receive. Upon sending "STOP," we will send a confirmation that you have been unsubscribed. After this, you will no longer receive SMS messages unless you opt in again. You may also request to opt out by contacting us directly at the email address listed on this site.
+
+### Use and Protection of Mobile Information
+
+Your mobile number and opt-in status will not be shared, sold, rented, or used for third-party marketing purposes. National Restoration Construction will only use your phone number in accordance with this Privacy Policy and for the specific services or communications you've consented to receive.
+
+### Consent and Acceptable Use
+
+Providing your mobile phone number constitutes your agreement to receive communications as described above. Use of our messaging services is subject to our Acceptable Use Policy, which outlines requirements around consent, content restrictions, sender identification, and opt-out handling. You can view our Acceptable Use Policy below.
+
 ## Contact Us About Privacy
 
 Questions, requests, or concerns about how your information is handled can be directed to:
