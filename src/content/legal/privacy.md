@@ -60,6 +60,144 @@ Your mobile number and opt-in status will not be shared, sold, rented, or used f
 
 Providing your mobile phone number constitutes your agreement to receive communications as described above. Use of our messaging services is subject to our Acceptable Use Policy, which outlines requirements around consent, content restrictions, sender identification, and opt-out handling. You can view our Acceptable Use Policy below.
 
+## SMS Acceptable Use Policy
+
+### Acceptable Use Policy
+
+This Acceptable Use Policy (the “Policy”) outlines the rules governing the use of messaging and communication services (“Services”) provided by National Restoration Construction, (“National Restoration Construction,” “we,” “our,” or “us”). By using our Services, you agree to comply with this Policy. Failure to comply may result in suspension or termination of access to Services.
+
+### Consent Requirements
+
+**Obtaining Consent:**
+
+You must obtain express consent from individuals before sending any SMS, MMS, or other electronic messages. This includes:
+
+- A clear, affirmative opt-in (e.g., checking a box or submitting a web form).
+- Disclosure of the type and frequency of messages.
+- A link to this AUP and our Privacy Policy.
+
+You must retain a record of consent, such as a timestamp or signed agreement.
+
+### Sample Opt-In Language
+
+“By checking this box, you consent to receive text messages from National Restoration Construction regarding your account and services. Up to 10 msgs/month. Msg & data rates may apply. Reply STOP to opt out. Consent is not a condition of purchase. See our Privacy Policy and Terms of Use.”
+
+### Revocation of Consent (Opt-Out)
+
+Users can revoke consent at any time by replying with standard opt-out keywords (e.g., “STOP”, “UNSUBSCRIBE”). One final message may confirm opt-out. No further messages may be sent without new consent.
+
+### Identification
+
+All outbound messages must clearly identify National Restoration Construction as the sender, unless they are part of an ongoing conversation initiated by the recipient.
+
+### Message Content Restrictions
+
+You may not use our Services to send or facilitate content that includes:
+
+#### Unsolicited or Spam Messages
+
+- Advertising or promotional messages without explicit user consent
+- Purchased phone lists or shared third-party consents
+
+#### Illegal or Restricted Content
+
+- Child exploitation material
+- Hate speech or incitement to violence
+- High-risk financial services (e.g., payday loans, crypto schemes)
+- Debt relief or credit repair services
+- Cannabis, CBD, or other controlled substances
+- Prescription drugs without a license
+- Gambling or betting content
+- "Make-money-fast" or deceptive income claims
+
+#### SHAFT Content
+
+- Sexually explicit material
+- Hate-based content
+- Alcohol promotions
+- Firearms and ammunition sales
+- Tobacco or vaping products
+
+#### Fraudulent or Malicious Content
+
+- Phishing or impersonation
+- Malware, spyware, or viruses
+
+### Evasion and Abuse
+
+You may not:
+
+- Use URL shorteners from shared public domains (e.g., Bit.ly)
+- Misspell keywords or evade detection filters intentionally
+- Send similar messages from multiple numbers (“snowshoeing”)
+- Alter headers or spoof sender identity
+
+### Frequency and Reconfirmation
+
+If you send recurring messages, you must:
+
+- Inform users of the frequency
+- Include regular reminders about opt-out options
+- Reconfirm consent periodically as required by law
+
+### Enforcement
+
+Violations of this Policy may result in:
+
+- Warning or temporary suspension
+- Termination of access to messaging services
+- Reporting to telecommunications carriers and regulatory bodies
+
+We reserve the right to amend this Policy at any time. Continued use of the Services indicates acceptance of the most current version.
+
+### Privacy and Data Usage
+
+We do not share SMS opt-in information with third parties for marketing purposes. Mobile numbers will only be used for the purposes explicitly consented to, in accordance with our Privacy Policy. For questions about this Policy, contact us at the email address listed in the footer of this website.
+
+## SMS Terms & Conditions
+
+These SMS Terms & Conditions govern the SMS/text messaging services (“Messaging Services”) provided by National Restoration Construction, (“National Restoration Construction,” “we,” “our,” or “us”). By opting into our Messaging Services, you agree to these Terms.
+
+### Brand Name
+
+National Restoration Construction
+
+### Types of Messages You May Receive
+
+By opting in, you may receive:
+
+- Appointment reminders
+- Account notifications
+- Product or service updates
+- Customer support communications
+- Promotional and marketing messages (only if consented to)
+
+### Message Frequency
+
+Message frequency varies based on your interactions but will not exceed 15 messages per month unless otherwise specified at opt-in.
+
+### Message and Data Rates
+
+Standard message and data rates may apply. Please contact your carrier for details.
+
+### Opt-Out Instructions
+
+Text “STOP” to cancel at any time. You’ll receive a confirmation message and will no longer receive SMS messages from us unless you opt in again.
+
+### Customer Support
+
+- Text HELP for assistance
+- Email: Listed in the footer of this site
+- Call: Phone number listed in the footer of this site
+
+### Privacy & Data Use
+
+Your number and opt-in information will never be sold or shared for third-party marketing. See our Privacy Policy for details.
+
+### Changes to Terms
+
+These terms may be updated from time to time. Continued use of the Messaging Services after any changes constitutes your agreement to those changes.
+
 ## Contact Us About Privacy
 
 Questions, requests, or concerns about how your information is handled can be directed to:
