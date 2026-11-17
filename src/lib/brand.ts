@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "68",
+  gbpReviewCount: "69",
   gbpReviews: [
     { author: "Justin", rating: 5, text: "Miguel was very kind and helpful. Thanks!", when: "November 2026" },
     { author: "Yamin", rating: 5, text: "Miguel and Jose are exceptionally professional and patient. The most valuable part of working with them is that they don’t overscope the work. After getting a few quotes, I ultimately chose them, and I'm glad I did.", when: "November 2026" },
