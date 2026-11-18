@@ -54,7 +54,7 @@ Paul Davis is a nationally accredited restoration and reconstruction network wit
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| National Restoration Construction | 5.0 | 64 | Yes | Yes |
+| National Restoration Construction | 5.0 | 69 | Yes | Yes |
 | ServPro (Seattle-area) | Varies by location | Varies by location | Yes | Yes (brand standard) |
 | BELFOR Property Restoration | Varies by location | Varies by location | Yes | Yes (brand standard) |
 | Rainbow International | Varies by location | Varies by location | Yes | Yes (brand standard) |

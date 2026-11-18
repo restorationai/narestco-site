@@ -85,11 +85,11 @@ Rainbow International is another nationally franchised restoration brand with a 
 
 | Company | Google Rating | 24/7 Emergency | IICRC Certified | Licensed GC (WA) |
 |---|---|---|---|---|
-| National Restoration Construction |, | Yes | Yes | Yes (NATIORC792M6) |
-| SERVPRO of Federal Way | 4.7 |, |, |, |
-| Paul Davis Restoration | 4.6 |, |, |, |
-| Belfor Property Restoration | 4.5 |, |, |, |
-| Rainbow International | 4.4 |, |, |, |
+| National Restoration Construction | 5.0 | Yes | Yes | Yes (NATIORC792M6) |
+| SERVPRO of Federal Way | 4.7 | Not listed | Not listed | Not listed |
+| Paul Davis Restoration | 4.6 | Not listed | Not listed | Not listed |
+| Belfor Property Restoration | 4.5 | Not listed | Not listed | Not listed |
+| Rainbow International | 4.4 | Not listed | Not listed | Not listed |
 
 *Google ratings for competitors reflect publicly available data as of 2026. Cells marked ", " indicate data not independently verified for this listing.*
 

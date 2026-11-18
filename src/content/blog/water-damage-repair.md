@@ -104,11 +104,11 @@ The best restoration companies build the written scope, submit it to your carrie
 
 | Company | Google Rating | 24/7 Emergency | IICRC Certified | WA Licensed |
 |---|---|---|---|---|
-| National Restoration Construction | Verified | Yes | Yes | Yes (NATIORC792M6) |
-| Servpro of Federal Way | 4.6 stars | Yes | Yes (franchise standard) |, |
-| Paul Davis Restoration | 4.5 stars | Yes |, |, |
-| ServiceMaster Restore | 4.4 stars | Yes |, |, |
-| BELFOR Property Restoration | 4.3 stars | Yes |, |, |
+| National Restoration Construction | 5.0 | Yes | Yes | Yes (NATIORC792M6) |
+| Servpro of Federal Way | 4.6 stars | Yes | Yes (franchise standard) | Not listed |
+| Paul Davis Restoration | 4.5 stars | Yes | Not listed | Not listed |
+| ServiceMaster Restore | 4.4 stars | Yes | Not listed | Not listed |
+| BELFOR Property Restoration | 4.3 stars | Yes | Not listed | Not listed |
 
 *Competitor cells reflect publicly available Google ratings. Certification and license status for competitors are not independently verified, confirm directly before hiring.*
 

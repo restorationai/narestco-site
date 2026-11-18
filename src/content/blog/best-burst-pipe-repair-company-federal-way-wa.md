@@ -58,7 +58,7 @@ Roto-Rooter is a national plumbing and drain-cleaning franchise with a location 
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| NARESTCO | 5.0 | 66 | Yes | Yes |
+| NARESTCO | 5.0 | 69 | Yes | Yes |
 | Hunt's Services | Not listed | Not listed | Not listed | Not listed |
 | Spartan Plumbing | Not listed | Not listed | Not listed | Not listed |
 | Federal Way Plumbing Guys | Not listed | Not listed | Not listed | Not listed |

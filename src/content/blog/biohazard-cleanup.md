@@ -93,11 +93,11 @@ ServiceMaster Restore is one of the oldest names in the restoration industry and
 
 | Company | Google Rating | 24/7 Emergency | IICRC Certified | WA Licensed |
 |---|---|---|---|---|
-| National Restoration Construction | 4.9 stars | Yes | Yes | Yes (NATIORC792M6) |
-| Servpro of Federal Way / Auburn |, |, |, |, |
-| BioOne Seattle |, |, |, |, |
-| Paul Davis Restoration of Tacoma |, |, |, |, |
-| ServiceMaster Restore (South King County) |, |, |, |, |
+| National Restoration Construction | 5.0 | Yes | Yes | Yes (NATIORC792M6) |
+| Servpro of Federal Way / Auburn | Not listed | Not listed | Not listed | Not listed |
+| BioOne Seattle | Not listed | Not listed | Not listed | Not listed |
+| Paul Davis Restoration of Tacoma | Not listed | Not listed | Not listed | Not listed |
+| ServiceMaster Restore (South King County) | Not listed | Not listed | Not listed | Not listed |
 
 *Competitor cells marked ", " reflect information not independently verified at time of publication. Always confirm credentials directly before hiring.*
 

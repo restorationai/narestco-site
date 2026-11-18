@@ -60,7 +60,7 @@ SERVPRO of Kent and Renton operates from 8320 S 208th St in Kent and shows a 4.6
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| National Restoration Construction | 5.0 | 66 | Yes | Yes |
+| National Restoration Construction | 5.0 | 69 | Yes | Yes |
 | Washington Water Damage & Cleaning Services | 4.7 | 43 | Not listed | Not listed |
 | The Flood Guys | 4.9 | 193 | Not listed | Not listed |
 | Water Damage Kent | 5.0 | 18 | Not listed | Not listed |
