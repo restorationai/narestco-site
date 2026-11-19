@@ -1,6 +1,7 @@
 ---
 // src/components/ui/Hero.astro
 import { brand } from "~/lib/brand";
+import FactsLine from "~/components/ui/FactsLine.astro";
 import { srcsetFor } from "~/lib/images";
 import { Phone } from "@lucide/astro";
 
@@ -54,6 +55,7 @@ const ctaFg = isSensitive ? "text-white" : "text-cta-fg";
   <div class="container-wide relative z-10 pt-10 pb-14 md:pt-12 md:pb-16 text-left lg:grid lg:grid-cols-[minmax(0,1fr)_440px] lg:gap-12 lg:items-center">
     <div class="max-w-2xl">
       <h1 class="mb-6 drop-shadow-lg text-4xl md:text-5xl lg:text-6xl">{title}</h1>
+      <FactsLine />
       {trustLine && (
         <p class="inline-block text-base md:text-lg font-semibold text-white bg-white/15 backdrop-blur-sm rounded-lg px-4 py-2 mb-6 drop-shadow-md border border-white/25">
           {trustLine}
