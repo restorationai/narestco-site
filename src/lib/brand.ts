@@ -29,8 +29,8 @@ export const brand = {
   // keep the canonical NAP number above — humans dial the tracked line,
   // Google sees consistent NAP. Empty = feature off (default at scaffold;
   // filled by the call-tracking provisioning step).
-  trackingPhone: "(206) 737-0916",
-  trackingPhoneRaw: "+12067370916",
+  trackingPhone: "(855) 726-7160",
+  trackingPhoneRaw: "+18557267160",
   email: "info@narestco.com",
   hours: "24/7",
   // AVAILABILITY 24/7 (Santino 2026-11-21, scripts/availability.py): calls are
