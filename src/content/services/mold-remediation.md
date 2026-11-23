@@ -49,7 +49,7 @@ Some situations are obvious. You open a crawl space access panel and find black 
 
 **What not to do first:** Don't run a box fan across visible mold growth, that disperses spores through your HVAC and into adjacent rooms. Don't paint over staining. Don't pull out drywall yourself without containment in place. These actions can significantly expand the affected area and complicate the remediation scope.
 
-If you're unsure whether what you're seeing is mold, call us. We'd rather do a quick assessment and tell you it's efflorescence than have you discover six months later that a small colony became a structural problem.
+If you're unsure whether what you're seeing is mold, call us, or start with a [mold inspection and testing](/services/mold-inspection-testing/) visit. We'd rather do a quick assessment and tell you it's efflorescence than have you discover six months later that a small colony became a structural problem.
 
 ## What Sets Our Mold Team Apart
 

@@ -25,7 +25,7 @@ Encapsulation means sealing the crawl space off from ground moisture and outside
 
 ## Our process
 
-1. **Moisture and structural assessment.** We check framing moisture content, look for existing mold, rot, pest entry points, and evaluate whether bulk water (standing water, active seepage) needs to be addressed before anything else happens.
+1. **Moisture and structural assessment.** We check framing moisture content, look for existing mold (with [mold inspection and testing](/services/mold-inspection-testing/) when growth is suspected), rot, pest entry points, and evaluate whether bulk water (standing water, active seepage) needs to be addressed before anything else happens.
 2. **Drainage correction, if needed.** Encapsulating over a space that still collects water just traps it. If grading, a sump pump, or interior drainage channel is needed, that goes in first.
 3. **Surface prep and debris removal.** Old insulation, failed plastic sheeting, and construction debris come out. Exposed wood gets treated if rot or mold is present.
 4. **Vapor barrier installation.** Reinforced poly sheeting is sealed to the foundation walls, piers, and overlapping seams are taped, not just draped loose over the dirt.

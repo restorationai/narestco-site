@@ -50,7 +50,7 @@ Some water events are obvious: a pipe bursts at 2 a.m. and you're standing in an
 
 Don't run a standard household fan over standing water, it can spread contaminated droplets and doesn't move enough air to actually dry structural materials. Don't walk through water that may have contacted your electrical panel or outlets. And don't assume the damage is contained to what you can see; water follows framing cavities and gravity, and it routinely travels 10–15 feet from the source before stopping.
 
-Time matters more than most homeowners realize. Mold can begin colonizing porous materials within 24–48 hours of saturation. The difference between a **water mitigation** job that stays contained and one that expands into full mold remediation is often a matter of how quickly extraction and drying begin.
+Time matters more than most homeowners realize. Mold can begin colonizing porous materials within 24–48 hours of saturation. The difference between a **water mitigation** job that stays contained and one that expands into full mold remediation is often a matter of how quickly extraction and drying begin. If water sat for more than a day or two before drying started, [mold inspection and testing](/services/mold-inspection-testing/) tells you whether growth has already begun.
 
 ## What sets our water damage team apart
 
