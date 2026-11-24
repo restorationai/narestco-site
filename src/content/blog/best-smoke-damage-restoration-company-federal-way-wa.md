@@ -42,7 +42,7 @@ ServiceMaster Restore of South King County is a franchise location of the nation
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| NARESTCO | 5.0 | 69 | Yes | Yes |
+| NARESTCO | 5.0 | 71 | Yes | Yes |
 | SERVPRO of Federal Way | Not listed | Not listed | Not listed | Not listed |
 | ServiceMaster Restore of South King County | Not listed | Not listed | Not listed | Not listed |
 

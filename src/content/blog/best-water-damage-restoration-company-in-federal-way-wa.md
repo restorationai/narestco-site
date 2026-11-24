@@ -35,7 +35,7 @@ Below is the full ranked list, including four other established local options.
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| National Restoration Construction | 5.0 | 69 | Yes | Yes |
+| National Restoration Construction | 5.0 | 71 | Yes | Yes |
 | PuroClean of Northeast Tacoma | 4.9 | 68 | Not listed | Not listed |
 | 24/7 Flood & Fire | 4.8 | 199 | Not listed | Not listed |
 | Bastion Water Damage | 5.0 | 37 | Not listed | Not listed |
