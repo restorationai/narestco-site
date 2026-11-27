@@ -53,7 +53,7 @@ A national franchise brand with a local Auburn branch serving the Federal Way ar
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| NARESTCO | 5.0 | 71 | Yes | Yes |
+| NARESTCO | 5.0 | 72 | Yes | Yes |
 | ServiceMaster Restoration by EMT | 4.7 | ~120 | Not listed | Not listed |
 | Rainbow International of Seattle | 4.6 | ~85 | Not listed | Not listed |
 | PuroClean Emergency Services | 4.8 | ~95 | Not listed | Not listed |

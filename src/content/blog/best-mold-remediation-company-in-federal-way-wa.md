@@ -60,7 +60,7 @@ SERVPRO of Auburn/Enumclaw holds a 4.9-star rating from 84 reviews, the highest 
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| National Restoration Construction | 5.0 | 71 | Yes | Yes |
+| National Restoration Construction | 5.0 | 72 | Yes | Yes |
 | SERVPRO of Federal Way | 4.5 | 22 | Not listed | Not listed |
 | PuroClean of Northeast Tacoma | 4.9 | 73 | Not listed | Not listed |
 | Bastion Water Damage | 5.0 | 36 | Not listed | Not listed |

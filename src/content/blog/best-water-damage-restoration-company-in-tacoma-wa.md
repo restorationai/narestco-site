@@ -56,7 +56,7 @@ SERVPRO of University Place/Lakewood West serves the western Pierce County area,
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| National Restoration Construction | 5.0 | 71 | Yes | Yes |
+| National Restoration Construction | 5.0 | 72 | Yes | Yes |
 | SERVPRO of Tacoma | 4.8 | 179 | Not listed | Not listed |
 | ServiceMaster of Tacoma | 4.6 | 266 | Not listed | Not listed |
 | SERVPRO of University Place/Lakewood West | 4.7 | 75 | Not listed | Not listed |

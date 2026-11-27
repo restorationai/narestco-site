@@ -77,14 +77,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "71",
+  gbpReviewCount: "72",
   gbpReviews: [
+    { author: "Tt", rating: 5, text: "Miguel did a great job with my mitigation process from the leaky roof. Highly recommend this company for restoration issues in your homes.", when: "November 2026" },
     { author: "Lidis", rating: 5, text: "Jose, and his crew arrive to our place after a nightmare car hit our home they assist our project from tarp to final final repairs into our house. Cannot thanks enough easy and quick process. Highly recommended", when: "November 2026" },
     { author: "Linda", rating: 5, text: "Great services they take care my washer leak flood after a delivery installation polite profesional and ontime", when: "November 2026" },
     { author: "Justin", rating: 5, text: "Miguel was very kind and helpful. Thanks!", when: "November 2026" },
     { author: "Yamin", rating: 5, text: "Miguel and Jose are exceptionally professional and patient. The most valuable part of working with them is that they don’t overscope the work. After getting a few quotes, I ultimately chose them, and I'm glad I did.", when: "November 2026" },
     { author: "Sharon", rating: 5, text: "National Restoration Company did Exceptional work for us in cleaning after the passing of my brother at home from cancer. They were very responsive, and also courteous. It was a very challenging time for us. I highly recommend.", when: "October 2026" },
-    { author: "Lauren", rating: 5, text: "National Restoration Construction were great to work with. Responsive, available, efficient and polite. Great quality work.", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Federal Way, WA.",
   ctaLabel: "24/7 Emergency Line",
